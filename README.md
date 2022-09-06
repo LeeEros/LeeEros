@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Lee Eros Galaad Dias De Moura<br>- 🔭 I’m currently working on **Pormade: Portas Prontas.**<br><br>- 📚 I'm currently studying Systems Analysis and Development **at IFPR, Brazil.**<br><br>- 📫 How to reach me **leeeros@protonmail.com**
+  - Hi 👋, I'm Lee Eros Galaad Dias De Moura<br>- 🔭 I’m currently working on **Pormade: Portas Prontas.**<br><br>- 📚 I'm currently studying Systems Analysis and Development **at IFPR, Brazil.**<br><br>- 📫 How to reach me **leeeros@protonmail.com**
 
 
 ## 🌐 Socials:
