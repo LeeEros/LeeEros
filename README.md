@@ -1,4 +1,4 @@
-# 🐱‍👤 Olá, prazer! Sou o Lee Eros Galaad Dias de Moura, Brasileiro.
+# 🐱‍👤 Olá, prazer! Sou o Lee Eros Galaad Dias de Moura.
 
 ### leeeros@protonmail.com
 
