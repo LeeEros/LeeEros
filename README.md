@@ -4,7 +4,7 @@
 
 ## _Desenvolvedor de Sistemas de TI na Pormade Portas._
 
-Analista de TI no Departamento Pessoal, responsável pelo Sankhya.
+Analista de TI no Departamento Pessoal, responsável pelo  sistema Sankhya e Banco de Dados.
 
 ## _Trainee em programação na Pormade Portas._
 
