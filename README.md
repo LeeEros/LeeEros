@@ -38,20 +38,18 @@
 
 ### leeeros@protonmail.com
 
-## _Desenvolvedor de Sistemas de TI na Pormade Portas._
+## Desenvolvedor de Sistemas de TI na Pormade Portas.
 
 Analista de TI no Departamento Pessoal, responsável pelo  sistema Sankhya e Banco de Dados.
 
-## _Trainee em programação na Pormade Portas._
+## Trainee em programação na Pormade Portas.
 
 Desenvolvedor Back-End Trainee: Nest.JS 2022-2023
 
-## _Presidente da Forcetech Júnior:_ <br>
-
-Empresa Júnior de Análise e Desenvolvimento de Sistemas.<br>
+## Presidente da Forcetech Júnior: Empresa Júnior de Análise e Desenvolvimento de Sistemas.<br>
 1° Empresa Júnior do IFPR: [Site da Forcetech JR](http://forcetechjr.com.br)
 
-### _Estudante do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas no IFPR-União da Vitória.
+### Estudante do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas no IFPR-União da Vitória.
  <!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
