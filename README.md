@@ -2,11 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Lee+Eros+Galaad+Dias+de+Moura;I'm+23+years+old;I+am+from+União+da+Vitória,+PR;I+studys+Systems+Analysis+at+IFPR;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeeEros&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Lee Eros github stats" /> 
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeEros&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
 </div>
-</div>
+</div>-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeeEros&&bg_color=0d1117&color=6A5ACD&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
