@@ -31,9 +31,9 @@
   
 <hr>
 
-### leeeros@protonmail.com
-
 ## Desenvolvedor de Sistemas de TI na Pormade Portas.
+
+### Email: leeeros@protonmail.com
 
 Analista de TI no Departamento Pessoal, responsável pelo  sistema Sankhya e Banco de Dados.
 
