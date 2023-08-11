@@ -4,15 +4,19 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeeEros&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Lee Eros github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeEros&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeEros&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
 </div>
 </div>
+
+<hr>
 
 <div align ="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=leeeros&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
     </a>
 </div>
+
+<hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeeEros&&bg_color=0d1117&color=6A5ACD&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
