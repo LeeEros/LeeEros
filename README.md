@@ -8,6 +8,12 @@
 </div>
 </div>
 
+<div align ="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=leeeros&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
+    </a>
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeeEros&&bg_color=0d1117&color=6A5ACD&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
