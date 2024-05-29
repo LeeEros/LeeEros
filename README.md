@@ -52,8 +52,8 @@ Analista de TI no Departamento Pessoal, responsável pelo  sistema Sankhya e Ban
 
 Desenvolvedor Back-End Trainee: Nest.JS 2022-2023
 
-## Presidente da Forcetech Júnior: Empresa Júnior de Análise e Desenvolvimento de Sistemas.<br>
-1° Empresa Júnior do IFPR: [Site da Forcetech JR](http://forcetechjr.com.br)
+## Ex-Presidente da Forcetech Júnior: Empresa Júnior de Análise e Desenvolvimento de Sistemas.<br>
+1° Empresa Júnior do IFPR <!--: [Site da Forcetech JR](http://forcetechjr.com.br)-->
 
 ### Estudante do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas no IFPR-União da Vitória.
  <!--
